@@ -1,4 +1,4 @@
-## Initilizing the `Query` class
+## initializing the `Query` class
 
 ```php
 <?php
